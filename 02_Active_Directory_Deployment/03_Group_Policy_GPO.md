@@ -1,6 +1,8 @@
 # Project B: Group Policy Automation
 
 **Objective:** Automate the deployment of a standardized desktop background to all employees using Group Policy Objects (GPO).
+<img width="1079" height="1208" alt="001-ticket" src="https://github.com/user-attachments/assets/ba3e990f-f0df-4440-9a6c-d5e340c344f9" />
+
 
 ## 1. Resources Created
 * **File Share:** `C:\CorpData` on Server (`WIN-IEU4MPTUGPG`).
