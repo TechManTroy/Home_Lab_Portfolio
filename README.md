@@ -17,4 +17,17 @@ This repository documents the design, implementation, and management of a hybrid
 
 ---
 ## Project Directory Tree
-
+```text
+Home_Lab_Portfolio/
+│
+├── README.md
+│
+├── 01_Infrastructure_Migration/
+│   └── 01_Docker_to_Bare_Metal.md
+│
+└── 02_Active_Directory_Deployment/
+    ├── 01_Network_Architecture.md
+    ├── 02_Client_Configuration.md
+    ├── 03_Group_Policy_GPO.md
+    └── 04_Incident_Report_IT.md
+				└── 04_Incident_Report_IT-1.md
