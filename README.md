@@ -1,6 +1,6 @@
 # Home Lab Infrastructure Portfolio
 **Maintainer:** Troy Edmonds
-**Last Updated:** January 16, 2026
+**Last Updated:** January 17, 2026
 **Version:** 1.0
 
 ## Executive Summary
