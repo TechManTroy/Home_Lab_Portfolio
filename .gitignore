@@ -1,0 +1,39 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files and logs
+*~
+*.bak
+*.tmp
+*.log
+*.swp
+*.swo
+
+# Build artifacts (if any tools are used that create these)
+build/
+dist/
+target/
+
+# Virtual Machine files (if any are accidentally placed here)
+*.vdi
+*.vbox
+*.vbox-prev
+*.vmdk
+*.ova
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Agent-specific temporary files within the project (if any)
+.gemini_temp/

@@ -29,5 +29,5 @@ Home_Lab_Portfolio/
     ├── 01_Network_Architecture.md
     ├── 02_Client_Configuration.md
     ├── 03_Group_Policy_GPO.md
-    └── 04_Incident_Report_IT.md
-		└── 04_Incident_Report_IT-1.md
+        └── 04_Incident_Report_IT/
+            └── 04_Incident_Report_IT-1.md
